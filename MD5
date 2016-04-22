@@ -1,0 +1,11 @@
+415fbdd56b6fbe9b1e1c7ac97c090c29 *DESCRIPTION
+4b05d8d741f7c4f866798b76a57e1896 *LICENSE
+6054cad96e345deb4a80f5ef15cc32ce *NAMESPACE
+af0ab922021adbe25a6b5db7882c5443 *R/sysdata.rda
+a273640b3d1241e02ee6243984cc3338 *R/xkcdcol.R
+4ba43da2c1a74f1b3dfb9543a77082d4 *build/partial.rdb
+a4494f23ba32862a51f79a7c2a9cd662 *inst/NEWS
+bb449936622c5269289cc116f16e2865 *man/name2color.Rd
+db8ea2e8cf2dcbba0bb1209e1d73dc03 *man/nearest_named.Rd
+3ef7254c22de33fbc2940801eca10583 *man/xcolors.Rd
+5b3fcd432deaece2af3916cf41b6490b *man/xkcdcolors-package.Rd
